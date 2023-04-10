@@ -5,3 +5,4 @@ bateu_meta = 0
 for venda in vendas:
     if venda >= meta:
         bateu_meta += 1
+        print(venda)
